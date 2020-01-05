@@ -3,4 +3,9 @@ bbbbbbbbbbbb
 cccccccccccccc
 UUUUUUUUUUUUU
 ddddddddddddd
+<<<<<<< HEAD
 eeeeeeeeeee ganbin 
+=======
+eeeeeeeeeee 
+ganb2
+>>>>>>> v1
